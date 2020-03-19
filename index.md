@@ -1,11 +1,13 @@
 # Edocon Developer
 
 ## My Projects
+
 I'm working on the following projects: 
 * a web **search engine**.
 * a simple page for a blog
 
 ## My actual skills
+
 I started from HTML5 and CSS. Now I'm learning markdown and it's specific uses on Github.
 
 ## About Jekill
@@ -15,8 +17,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## About Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. 
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
