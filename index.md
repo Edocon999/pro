@@ -1,25 +1,20 @@
-## Welcome to GitHub Pages
+# Edocon Developer
 
-You can use the [editor on GitHub](https://github.com/Edocon999/pro/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## My Projects
+I'm working on the following projects: 
+* a web **search engine**.
+* a simple page for a blog
+
+## My actual skills
+I started from HTML5 and CSS. Now I'm learning markdown and it's specific uses on Github.
+
+## About Jekill
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## About Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+Markdown is a lightweight and easy-to-use syntax for styling your writing. 
 
 **Bold** and _Italic_ and `Code` text
 
