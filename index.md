@@ -18,6 +18,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing.
 
 > a blockquote example.
 
+A table example:
+
+| Name      | Surname |
+| ----- | ----- |
+| John      | Doe       |
+| Robin   | Hood        |
+
 The following image is Mobirise logo:
 ![logo](logo2.png)
 
