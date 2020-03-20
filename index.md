@@ -16,6 +16,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing.
 
 [Link](url) and ![Image](src)
 
+> a blockquote example.
+
+The following image is Mobirise logo:
+![logo](assets/images/logo2.png)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## About Jekill
