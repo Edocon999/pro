@@ -34,6 +34,15 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## Definition list
+
+First Term
+: This is the definition of the first term.
+
+Second Term
+: This is one definition of the second term.
+: This is another definition of the second term.
+
 ```
 
 ### Jekyll Themes
