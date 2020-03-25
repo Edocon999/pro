@@ -43,17 +43,26 @@ Second Term
 : This is one definition of the second term.
 : This is another definition of the second term.
 
-## Title
+## Task list
 
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+
+## Footnotes
 
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 [^1]: This is the first footnote.
 
 [^bignote]: Here's one with multiple paragraphs and code.
+
+## Task list
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
 
     Indent paragraphs to include them in the footnote.
 
